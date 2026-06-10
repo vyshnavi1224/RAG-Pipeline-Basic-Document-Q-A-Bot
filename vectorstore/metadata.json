@@ -1,0 +1,380 @@
+[
+  {
+    "chunk_id": 0,
+    "source": "black_holes_general_relativity.txt",
+    "page": 1,
+    "text": "BLACK HOLES AND GENERAL RELATIVITY\n==================================="
+  },
+  {
+    "chunk_id": 1,
+    "source": "black_holes_general_relativity.txt",
+    "page": 1,
+    "text": "BLACK HOLES AND GENERAL RELATIVITY\n===================================\n\n1. INTRODUCTION\n---------------\nA black hole is a region of spacetime where gravity is so strong that nothing \u2014 not even light\nor other electromagnetic waves \u2014 has enough energy to escape its event horizon. The theory of\ngeneral relativity predicts that a sufficiently compact mass can deform spacetime to form a black\nhole. The boundary of no escape is called the event horizon. A black hole has a great effect on\nthe fate and circumstances of an object crossing it, but has no locally detectable features\naccording to general relativity."
+  },
+  {
+    "chunk_id": 2,
+    "source": "black_holes_general_relativity.txt",
+    "page": 1,
+    "text": "es of an object crossing it, but has no locally detectable features\naccording to general relativity.\n\nThe term \"black hole\" was coined by American astronomer John Wheeler in 1967, although the\nconcept was predicted by Karl Schwarzschild's solution to Einstein's field equations in 1916 \u2014\njust one year after Einstein published general relativity.\n\n2. GENERAL RELATIVITY AND SPACETIME CURVATURE\n----------------------------------------------\nAlbert Einstein published his general theory of relativity in 1915. It revolutionized our\nunderstanding of gravity, describing it not as a force (as Newton had it) but as a curvature\nof spacetime caused by mass and energy."
+  },
+  {
+    "chunk_id": 3,
+    "source": "black_holes_general_relativity.txt",
+    "page": 1,
+    "text": "bing it not as a force (as Newton had it) but as a curvature\nof spacetime caused by mass and energy.\n\nEinstein's field equations relate the geometry of spacetime (expressed through the Einstein\ntensor G\u03bc\u03bd) to the energy and momentum of matter (expressed through the stress-energy tensor T\u03bc\u03bd):\n\nG\u03bc\u03bd + \u039bg\u03bc\u03bd = (8\u03c0G/c\u2074) T\u03bc\u03bd\n\nwhere \u039b is the cosmological constant, G is Newton's gravitational constant, and c is the speed\nof light. These 10 coupled, nonlinear partial differential equations are extraordinarily complex\nand have only been solved analytically for special cases."
+  },
+  {
+    "chunk_id": 4,
+    "source": "black_holes_general_relativity.txt",
+    "page": 1,
+    "text": "tial equations are extraordinarily complex\nand have only been solved analytically for special cases.\n\nThe Schwarzschild solution describes the spacetime geometry outside a spherical, non-rotating,\nuncharged mass. It predicts the existence of a Schwarzschild radius (also called the gravitational\nradius), rs = 2GM/c\u00b2, at which the escape velocity equals the speed of light. This defines the\nevent horizon of the simplest type of black hole.\n\nFor the Sun, the Schwarzschild radius is approximately 3 km; for Earth, it is about 9 mm.\nNormal stars and planets are far larger than their Schwarzschild radii, so they are not black\nholes \u2014 their mass is not compressed enough."
+  },
+  {
+    "chunk_id": 5,
+    "source": "black_holes_general_relativity.txt",
+    "page": 1,
+    "text": "r than their Schwarzschild radii, so they are not black\nholes \u2014 their mass is not compressed enough.\n\n3. TYPES OF BLACK HOLES\n-----------------------\nBlack holes are classified by their mass:\n\nStellar-mass black holes (3\u2013100 solar masses): Form when massive stars (greater than about\n20 solar masses) exhaust their nuclear fuel and undergo supernova explosions. The iron core\ncollapses under gravity, and if the remaining mass exceeds the Tolman-Oppenheimer-Volkoff limit\n(~3 solar masses), it cannot be supported by neutron degeneracy pressure and collapses further\ninto a black hole. First observational evidence came from Cygnus X-1, detected in 1971."
+  },
+  {
+    "chunk_id": 6,
+    "source": "black_holes_general_relativity.txt",
+    "page": 1,
+    "text": "pses further\ninto a black hole. First observational evidence came from Cygnus X-1, detected in 1971.\n\nIntermediate-mass black holes (100\u2013100,000 solar masses): Difficult to confirm observationally\nbut likely exist as seeds for supermassive black holes or in the centers of globular clusters."
+  },
+  {
+    "chunk_id": 7,
+    "source": "black_holes_general_relativity.txt",
+    "page": 1,
+    "text": "nally\nbut likely exist as seeds for supermassive black holes or in the centers of globular clusters.\n\nSupermassive black holes (millions to billions of solar masses): Found at the centers of most\nlarge galaxies. The Milky Way's central black hole, Sagittarius A*, has a mass of approximately\n4 million solar masses. M87* (in galaxy Messier 87) has a mass of 6.5 billion solar masses and\nwas the subject of the first-ever direct image of a black hole, captured by the Event Horizon\nTelescope (EHT) collaboration in April 2019."
+  },
+  {
+    "chunk_id": 8,
+    "source": "black_holes_general_relativity.txt",
+    "page": 1,
+    "text": "ct image of a black hole, captured by the Event Horizon\nTelescope (EHT) collaboration in April 2019.\n\nPrimordial black holes: Hypothetical black holes that may have formed in the early universe from\ndensity fluctuations, before star formation. They could have any mass and are a candidate for\ndark matter."
+  },
+  {
+    "chunk_id": 9,
+    "source": "black_holes_general_relativity.txt",
+    "page": 1,
+    "text": "y fluctuations, before star formation. They could have any mass and are a candidate for\ndark matter.\n\n4. THE EVENT HORIZON AND SINGULARITY\n--------------------------------------\nThe event horizon is the boundary of a black hole \u2014 a surface in spacetime beyond which events\ncannot affect an outside observer. Nothing that crosses the event horizon can escape, including\nlight. From the perspective of a distant observer, a falling object appears to slow down and\nbecome redder as it approaches the event horizon (gravitational time dilation and redshift), but\nit never quite appears to cross it due to the infinite time dilation at the horizon."
+  },
+  {
+    "chunk_id": 10,
+    "source": "black_holes_general_relativity.txt",
+    "page": 1,
+    "text": "redshift), but\nit never quite appears to cross it due to the infinite time dilation at the horizon.\n\nFrom the perspective of the infalling object, there is nothing locally special about crossing\nthe event horizon. The object crosses it in finite proper time and continues falling toward the\nsingularity at the center.\n\nThe singularity is a point (or ring, in a rotating black hole) where the density and curvature\nof spacetime become infinite according to general relativity. Most physicists believe that the\nsingularity signals a breakdown of general relativity \u2014 a quantum theory of gravity is needed\nto describe physics at the singularity."
+  },
+  {
+    "chunk_id": 11,
+    "source": "black_holes_general_relativity.txt",
+    "page": 1,
+    "text": "f general relativity \u2014 a quantum theory of gravity is needed\nto describe physics at the singularity.\n\n5. HAWKING RADIATION\n--------------------\nIn 1974, Stephen Hawking predicted that black holes are not completely black \u2014 they emit thermal\nradiation due to quantum effects near the event horizon. This is known as Hawking radiation.\n\nThe mechanism involves virtual particle-antiparticle pairs that constantly form and annihilate\nnear the event horizon. Occasionally, one particle falls inside the horizon while the other\nescapes. To an outside observer, the black hole appears to emit a particle. The energy for this\ncomes from the black hole's mass, so the black hole slowly evaporates."
+  },
+  {
+    "chunk_id": 12,
+    "source": "black_holes_general_relativity.txt",
+    "page": 1,
+    "text": "particle. The energy for this\ncomes from the black hole's mass, so the black hole slowly evaporates.\n\nThe temperature of Hawking radiation is:\n  T = \u210fc\u00b3/(8\u03c0GMkB)\n\nwhere kB is Boltzmann's constant. For stellar-mass black holes, this temperature is extraordinarily\nsmall (roughly 60 nanokelvin for a solar-mass black hole), far below the temperature of the cosmic\nmicrowave background, making Hawking radiation undetectable with current technology. However, for\nvery small (micro) black holes, the temperature would be high enough to make them rapidly evaporate."
+  },
+  {
+    "chunk_id": 13,
+    "source": "black_holes_general_relativity.txt",
+    "page": 1,
+    "text": "very small (micro) black holes, the temperature would be high enough to make them rapidly evaporate.\n\n6. GRAVITATIONAL WAVES FROM BLACK HOLES\n----------------------------------------\nGravitational waves are ripples in spacetime caused by accelerating masses. Einstein predicted\nthem in 1916, but they were not directly detected until September 14, 2015, when the Laser\nInterferometer Gravitational-Wave Observatory (LIGO) detected waves from the merger of two\nstellar-mass black holes approximately 1.3 billion light-years away. The two black holes had\nmasses of approximately 29 and 36 solar masses and merged into a 62-solar-mass black hole,\nradiating 3 solar masses worth of energy as gravitational waves in a fraction of a second."
+  },
+  {
+    "chunk_id": 14,
+    "source": "black_holes_general_relativity.txt",
+    "page": 1,
+    "text": "ack hole,\nradiating 3 solar masses worth of energy as gravitational waves in a fraction of a second.\n\nThis discovery, which led to the 2017 Nobel Prize in Physics for Rainer Weiss, Kip Thorne, and\nBarry Barish, opened the era of gravitational wave astronomy. LIGO, Virgo, and KAGRA have since\ndetected dozens of black hole mergers, neutron star mergers, and mixed events."
+  },
+  {
+    "chunk_id": 15,
+    "source": "black_holes_general_relativity.txt",
+    "page": 1,
+    "text": "and KAGRA have since\ndetected dozens of black hole mergers, neutron star mergers, and mixed events.\n\n7. THE INFORMATION PARADOX\n---------------------------\nHawking radiation presents a profound theoretical problem known as the black hole information\nparadox. If a black hole forms from matter in a pure quantum state, then Hawking radiation is\ncompletely thermal (mixed quantum state) and carries no information about the original matter.\nAfter the black hole evaporates completely, all information about the original state is gone."
+  },
+  {
+    "chunk_id": 16,
+    "source": "black_holes_general_relativity.txt",
+    "page": 1,
+    "text": "atter.\nAfter the black hole evaporates completely, all information about the original state is gone.\n\nThis violates unitarity \u2014 a fundamental principle of quantum mechanics that says quantum\ninformation is conserved. The paradox has been debated for decades. Proposed resolutions include:\n- Information is encoded in subtle correlations in the Hawking radiation (Hawking's eventual view)\n- Information escapes in Planck-scale remnants after evaporation\n- The firewall paradox (Almheiri et al., 2012): an infalling observer would encounter a firewall\n  of high-energy radiation at the event horizon\n- ER = EPR conjecture (Maldacena and Susskind, 2013): the interior and exterior of the black hole\n  are connected by wormholes (Einstein-Rosen bridges) linked to entanglement"
+  },
+  {
+    "chunk_id": 17,
+    "source": "black_holes_general_relativity.txt",
+    "page": 1,
+    "text": "erior of the black hole\n  are connected by wormholes (Einstein-Rosen bridges) linked to entanglement\n\n8. THE FIRST IMAGE OF A BLACK HOLE\n------------------------------------\nOn April 10, 2019, the Event Horizon Telescope (EHT) collaboration released the first direct\nimage of a black hole. The target was M87*, the supermassive black hole at the center of\ngalaxy Messier 87, located 55 million light-years from Earth. The image shows a bright ring\nof emission (hot accreting gas) surrounding a dark central region (the shadow of the event\nhorizon) with a diameter of approximately 42 microarcseconds."
+  },
+  {
+    "chunk_id": 18,
+    "source": "black_holes_general_relativity.txt",
+    "page": 1,
+    "text": "entral region (the shadow of the event\nhorizon) with a diameter of approximately 42 microarcseconds.\n\nIn 2022, the EHT released the first image of Sagittarius A*, the black hole at the center of\nthe Milky Way, despite the greater challenge posed by its smaller angular size and more rapidly\nvarying structure."
+  },
+  {
+    "chunk_id": 19,
+    "source": "black_holes_general_relativity.txt",
+    "page": 1,
+    "text": "despite the greater challenge posed by its smaller angular size and more rapidly\nvarying structure.\n\n9. SUMMARY\n----------\nBlack holes are among the most extreme objects in the universe, where general relativity, quantum\nmechanics, and thermodynamics all intersect in poorly understood ways. From gravitational wave\nastronomy to direct imaging, the 21st century has transformed black holes from theoretical\ncuriosities into objects we can observe and study in detail. Key open questions \u2014 the information\nparadox, the nature of singularities, and what lies inside the event horizon \u2014 remain at the\nfrontier of theoretical physics."
+  },
+  {
+    "chunk_id": 20,
+    "source": "climate_science_global_warming.pdf",
+    "page": 1,
+    "text": "Climate Science: Mechanisms, Evidence, and\n Projections\n1. The Greenhouse Effect\nThe greenhouse effect is the warming that results when the atmosphere traps heat radiating from\nEarth toward space. Certain gases in the atmosphere (greenhouse gases) block heat from\nescaping. Life on Earth depends on the greenhouse effect \u2014 without it, Earth's average\ntemperature would be about -18\u00b0C instead of the current 14\u00b0C.\nThe primary greenhouse gases are: water vapor (H2O), which is the most abundant and acts as a\nfeedback amplifier; carbon dioxide (CO2), which is the most important long-lived greenhouse gas\nand has increased from 280 ppm pre-industrial to over 420 ppm in 2023; methane (CH4), which is\n80 times more potent than CO2 over 20 years; nitrous oxide (N2O), mainly from agriculture; and\nfluorinated gases, synthetic and extremely long-lived.\nThe enhanced greenhouse effect refers to the additional warming caused by human activities that\nincrease the concentration of greenhouse gases. Since industrialization began around 1850,\nhuman activities \u2014 primarily fossil fuel combustion, deforestation, and agriculture \u2014 have\nincreased atmospheric CO2 by over 50%.\n2. Evidence for Anthropogenic Climate Change\nMultiple independent lines of evidence confirm that Earth's climate is warming and that human\nactivities are the primary driver since the mid-20th century:\nTemperature Records: NASA and NOAA maintain global surface temperature records showing\nthat Earth's average surface temperature has increased by approximately 1.1\u00b0C since the\npre-industrial period (1850-1900). The 10 warmest years on record have all occurred since 2010.\nThe Intergovernmental Panel on Climate Change (IPCC) Sixth Assessment Report (AR6, 2021)\nstates that it is 'unequivocal' that humans have warmed the climate.\nIsotopic Fingerprinting: Fossil fuels have a distinct carbon isotope signature (depleted in C-13 and\nC-14). The decreasing ratio of C-13 to C-12 in atmospheric CO2 over time proves that the\nincrease is from fossil fuel burning, not natural sources.\nOcean Heat Content: The oceans have absorbed over 90% of the excess heat trapped by\ngreenhouse gases. Ocean heat content has increased every decade since the 1960s.\nSea Level Rise: Global mean sea level has risen approximately 20 cm since 1900, with the rate\naccelerating since the 1990s. Both thermal expansion of warming ocean water and melting of"
+  },
+  {
+    "chunk_id": 21,
+    "source": "climate_science_global_warming.pdf",
+    "page": 2,
+    "text": "glaciers and ice sheets contribute.\nArctic Sea Ice: Arctic summer sea ice extent has declined by about 40% since satellite\nobservations began in 1979. The Arctic is warming approximately 4 times faster than the global\naverage (Arctic amplification).\nGlacier Retreat: Almost all of the world's glaciers are retreating. The World Glacier Monitoring\nService tracks over 5,000 glaciers globally, with mass balance data consistently negative since the\n1980s.\n3. Climate Feedback Mechanisms\nClimate feedbacks are processes that amplify or dampen the initial warming caused by\ngreenhouse gas increases:\nIce-Albedo Feedback (Positive): Ice and snow are highly reflective (high albedo). As temperatures\nrise, ice and snow melt, exposing darker ocean or land surfaces that absorb more sunlight,\ncausing further warming. This is a major factor in Arctic amplification.\nWater Vapor Feedback (Positive): A warmer atmosphere holds more water vapor, which is itself a\ngreenhouse gas. This approximately doubles the warming from CO2 alone and is the largest\npositive feedback in the climate system.\nLapse Rate Feedback: As the atmosphere warms, the temperature gradient between the surface\nand upper atmosphere changes, affecting how much heat is radiated to space.\nCloud Feedbacks (Mixed): Clouds have two opposing effects \u2014 they reflect incoming sunlight\n(cooling) and trap outgoing longwave radiation (warming). How cloud cover and properties change\nwith warming is the largest source of uncertainty in climate projections. Current evidence suggests\na net positive feedback from clouds.\nPermafrost Carbon Feedback (Positive): About 1.5 trillion tonnes of carbon are stored in frozen\nArctic soils. As permafrost thaws, microbes decompose this organic matter, releasing CO2 and\nmethane \u2014 potentially triggering a significant feedback loop.\nCarbon Cycle Feedbacks: As oceans warm, they absorb less CO2 from the atmosphere (reduced\nsolubility). Forest dieback from heat, drought, and pests can convert carbon sinks into carbon\nsources.\n4. IPCC Projections and Emissions Scenarios\nThe IPCC uses Shared Socioeconomic Pathways (SSPs) to model different future scenarios\nbased on greenhouse gas emissions trajectories and societal choices:"
+  },
+  {
+    "chunk_id": 22,
+    "source": "climate_science_global_warming.pdf",
+    "page": 3,
+    "text": "SSP1-1.9 (Very Low Emissions): Aggressive mitigation with net-zero CO2 by ~2050. Global\nwarming likely limited to 1.0-1.8\u00b0C by 2100. Requires rapid transformation of energy, land, and\nindustrial systems.\nSSP2-4.5 (Intermediate): Current policies trajectory with some mitigation. Warming of 2.1-3.5\u00b0C by\n2100. Sea level rise of 0.3-0.6m by 2100.\nSSP5-8.5 (Very High Emissions): Business as usual with high fossil fuel use. Warming of\n3.3-5.7\u00b0C by 2100. Sea level rise of 0.6-1.0m by 2100 (higher if ice sheet instabilities triggered).\nThis scenario was previously considered the 'worst case' and is now regarded as the upper bound\nof plausible outcomes given current trends.\nThe Paris Agreement (2015) aims to limit warming to well below 2\u00b0C above pre-industrial levels,\npreferably 1.5\u00b0C. Current nationally determined contributions (NDCs) are insufficient to meet the\n1.5\u00b0C target; they imply warming of approximately 2.5-3\u00b0C.\n5. Impacts of Climate Change\nClimate change is already causing wide-ranging impacts across natural and human systems:\nExtreme Weather: Climate change increases the frequency and intensity of heatwaves. Heavy\nprecipitation events have increased in most regions. Atlantic hurricanes show increasing intensity\nand rapid intensification. Droughts are more severe in many areas.\nBiodiversity and Ecosystems: Coral bleaching events (caused by ocean warming and acidification)\nhave devastated reefs worldwide \u2014 the Great Barrier Reef experienced mass bleaching in 2016,\n2017, 2020, 2022, and 2024. Roughly 1 million species face extinction risk partly from climate\nchange. Species are shifting their ranges toward the poles and to higher elevations.\nFood and Water Security: Crop yields of wheat, rice, and maize are projected to decline by up to\n25% with 2\u00b0C warming in tropical regions. Glacier retreat threatens freshwater supplies for\nhundreds of millions of people in the Hindu Kush-Himalayan region. Ocean acidification (pH has\ndropped from 8.2 to 8.1 since industrialization, a 26% increase in acidity) threatens shellfish and\nmarine food webs.\nHuman Health: Heat-related mortality is rising, particularly for elderly populations. Expanded range\nof vector-borne diseases (malaria, dengue). Air quality worsens with increased wildfire smoke and\nozone formation. Mental health impacts from climate disasters and displacement are increasingly\ndocumented.\nSea Level Rise and Displacement: At 1\u00b0C warming, low-lying coastal cities like Miami, Mumbai,\nand Shanghai face increasing flood risk. Up to 1 billion people could be displaced by 2050 due to\nsea level rise, extreme heat, and drought if emissions are not drastically reduced."
+  },
+  {
+    "chunk_id": 23,
+    "source": "climate_science_global_warming.pdf",
+    "page": 4,
+    "text": "6. Mitigation Strategies\nMitigation refers to actions to reduce greenhouse gas emissions or enhance carbon sinks:\nEnergy Transition: Replacing fossil fuels with renewable energy is central to mitigation. Solar\nphotovoltaic costs have fallen by 90% since 2010, and wind costs by 70%. Renewables now\naccount for over 30% of global electricity generation. Full decarbonization of the power sector is\ntechnically achievable with current technologies by 2050.\nEnergy Efficiency: More efficient buildings, vehicles, and industrial processes can reduce\nemissions by 40-70% across sectors. Heat pumps (for space heating and cooling) are 2-4 times\nmore efficient than combustion heating.\nElectrification: Replacing fossil fuel end uses (cars, heating, industry) with electricity allows\ndecarbonization once the electricity grid is clean. Electric vehicle (EV) sales hit 10 million globally\nin 2022.\nCarbon Capture and Storage (CCS): Capturing CO2 from power plants or industrial processes and\nstoring it underground. Currently expensive and limited in scale, but essential for hard-to-abate\nsectors.\nNature-Based Solutions: Protecting and restoring forests, wetlands, and soils can sequester\nsignificant carbon. Forests absorb approximately 2.6 billion tonnes of CO2 per year globally.\nHowever, nature-based solutions alone cannot compensate for insufficient emissions reductions.\nCarbon Pricing: Putting a price on carbon emissions through carbon taxes or emissions trading\nschemes (ETS) is considered one of the most economically efficient mitigation tools. Over 70\ncarbon pricing mechanisms now exist globally, covering about 23% of global emissions.\n7. Tipping Points and Irreversibility\nClimate tipping points are thresholds in the climate system that, once crossed, lead to\nself-reinforcing changes that may be irreversible on human timescales:\nWest Antarctic Ice Sheet (WAIS) Collapse: The WAIS is a marine ice sheet resting on bedrock\nbelow sea level. Warm ocean water is melting it from below (marine ice sheet instability). If\ndestabilized, it could contribute 3-5 meters of sea level rise over centuries to millennia. Some\nscientists believe it may already be past a tipping point.\nGreenland Ice Sheet: Holds enough ice to raise sea levels by 7 meters. Research suggests its\ntipping point may be between 1.5-2\u00b0C of global warming, meaning its eventual loss is already\ncommitted even if warming stabilizes at 1.5\u00b0C.\nAmazon Dieback: Deforestation (currently 20% of the Amazon has been cleared) combined with\nclimate change could push the Amazon past a tipping point around 20-25% deforestation, causing\ndieback of large portions of the rainforest and converting it from a carbon sink to a carbon source."
+  },
+  {
+    "chunk_id": 24,
+    "source": "climate_science_global_warming.pdf",
+    "page": 5,
+    "text": "Atlantic Meridional Overturning Circulation (AMOC): This ocean circulation system transports\nwarm water northward, moderating European climate. Evidence suggests it is already weakening;\nits collapse would cause dramatic cooling in Europe and disruption to global weather patterns.\nBoreal Forest Dieback: The boreal forests of Canada and Russia are experiencing warming at\ntwice the global rate, increasing fire frequency and bark beetle outbreaks.\n8. Summary\nClimate change is the defining challenge of the 21st century. The scientific evidence is\nunequivocal: Earth is warming due to human greenhouse gas emissions, impacts are already\nsevere and widespread, and further warming will intensify these impacts. Limiting warming to\n1.5\u00b0C is technically possible but requires an immediate and transformative reduction in global\nemissions across all sectors. The window for action is narrowing rapidly \u2014 every fraction of a\ndegree of avoided warming significantly reduces the risk of crossing irreversible tipping points."
+  },
+  {
+    "chunk_id": 25,
+    "source": "crispr_gene_editing.txt",
+    "page": 1,
+    "text": "CRISPR-Cas9: GENE EDITING TECHNOLOGY AND APPLICATIONS\n======================================================\n\n1. INTRODUCTION TO CRISPR\n--------------------------\nCRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) is a family of DNA sequences\nfound in the genomes of prokaryotic organisms such as bacteria. These sequences are derived from\nDNA fragments of bacteriophages that had previously infected the prokaryote, and are used by the\norganism to detect and destroy similar bacteriophages during subsequent infections \u2014 functioning\nas a primitive adaptive immune system."
+  },
+  {
+    "chunk_id": 26,
+    "source": "crispr_gene_editing.txt",
+    "page": 1,
+    "text": "lar bacteriophages during subsequent infections \u2014 functioning\nas a primitive adaptive immune system.\n\nThe CRISPR-Cas9 system (where Cas9 stands for CRISPR-associated protein 9) has been repurposed\nas a revolutionary gene-editing tool. Discovered by Jennifer Doudna, Emmanuelle Charpentier, and\ntheir colleagues, and adapted for use in eukaryotic cells by Feng Zhang, this technology allows\nscientists to precisely edit DNA sequences in virtually any organism.\n\nDoudna and Charpentier were awarded the Nobel Prize in Chemistry in 2020 for developing the\nCRISPR-Cas9 gene-editing tool, one of the most significant advances in molecular biology."
+  },
+  {
+    "chunk_id": 27,
+    "source": "crispr_gene_editing.txt",
+    "page": 1,
+    "text": "loping the\nCRISPR-Cas9 gene-editing tool, one of the most significant advances in molecular biology.\n\n2. HOW CRISPR-Cas9 WORKS\n-------------------------\nThe CRISPR-Cas9 mechanism consists of two key components:\n1. A guide RNA (gRNA): a short, synthetic RNA sequence (~20 nucleotides) designed to match the\n   target DNA sequence to be edited\n2. The Cas9 protein: a molecular \"scissors\" enzyme that cuts both strands of the DNA double helix"
+  },
+  {
+    "chunk_id": 28,
+    "source": "crispr_gene_editing.txt",
+    "page": 1,
+    "text": "ed\n2. The Cas9 protein: a molecular \"scissors\" enzyme that cuts both strands of the DNA double helix\n\nThe process works as follows:\nStep 1 \u2013 Design: Scientists design a guide RNA that matches the target DNA sequence in the genome\nStep 2 \u2013 Assembly: The guide RNA binds to the Cas9 protein, forming a complex\nStep 3 \u2013 Navigation: The gRNA-Cas9 complex scans the genome until it finds a matching DNA sequence\nStep 4 \u2013 Recognition: Cas9 also requires a short sequence called a PAM (Protospacer Adjacent Motif)\n         next to the target \u2014 for SpCas9, this is the sequence NGG\nStep 5 \u2013 Cutting: Once the target is found, Cas9 makes a double-stranded break in the DNA\nStep 6 \u2013 Repair: The cell's natural DNA repair mechanisms fix the break, either by:\n         - Non-Homologous End Joining (NHEJ): error-prone repair that often disables the gene\n         - Homology-Directed Repair (HDR): precise repair using a provided DNA template"
+  },
+  {
+    "chunk_id": 29,
+    "source": "crispr_gene_editing.txt",
+    "page": 1,
+    "text": "les the gene\n         - Homology-Directed Repair (HDR): precise repair using a provided DNA template\n\nBy controlling whether NHEJ or HDR occurs, and providing a specific DNA template for HDR,\nscientists can knock out genes, correct mutations, or insert new genetic sequences.\n\n3. TYPES OF CRISPR SYSTEMS\n---------------------------\nSince the original CRISPR-Cas9 discovery, several additional CRISPR systems have been identified\nand developed:\n\nCas12 (Cpf1): Cuts DNA in a staggered pattern (leaving \"sticky ends\"), has a smaller PAM\nrequirement, and can process its own guide RNAs. It is particularly useful for multiplexed editing."
+  },
+  {
+    "chunk_id": 30,
+    "source": "crispr_gene_editing.txt",
+    "page": 1,
+    "text": "requirement, and can process its own guide RNAs. It is particularly useful for multiplexed editing.\n\nCas13: Targets RNA rather than DNA, enabling RNA knockdown and detection. It can be used to\ndestroy viral RNA genomes. The SHERLOCK diagnostic platform is based on Cas13.\n\nBase Editors: Rather than cutting DNA, base editors chemically convert one DNA base to another.\nCytosine base editors convert C to T; adenine base editors convert A to G. This enables precise\nsingle-nucleotide changes without double-stranded breaks, reducing the risk of off-target effects."
+  },
+  {
+    "chunk_id": 31,
+    "source": "crispr_gene_editing.txt",
+    "page": 1,
+    "text": "e\nsingle-nucleotide changes without double-stranded breaks, reducing the risk of off-target effects.\n\nPrime Editing: Developed in 2019 by David Liu's group at the Broad Institute, prime editing uses\na modified Cas9 (nickase) fused to a reverse transcriptase enzyme and a prime editing guide RNA\n(pegRNA). It can install all 12 types of point mutations plus small insertions and deletions\nwithout double-stranded breaks.\n\n4. MEDICAL APPLICATIONS\n-----------------------\nCRISPR's most exciting potential is in medicine, particularly for treating genetic diseases:"
+  },
+  {
+    "chunk_id": 32,
+    "source": "crispr_gene_editing.txt",
+    "page": 1,
+    "text": "-------\nCRISPR's most exciting potential is in medicine, particularly for treating genetic diseases:\n\nSickle Cell Disease and Beta-Thalassemia: In 2023, the FDA approved Casgevy (exagamglogene\nautotemcel) from Vertex Pharmaceuticals and CRISPR Therapeutics \u2014 the first approved CRISPR\ntherapy. It works by reactivating the production of fetal hemoglobin (HbF) in red blood cells,\ncompensating for the defective adult hemoglobin. Clinical trials showed it eliminated or\ndramatically reduced painful crises in patients."
+  },
+  {
+    "chunk_id": 33,
+    "source": "crispr_gene_editing.txt",
+    "page": 1,
+    "text": "hemoglobin. Clinical trials showed it eliminated or\ndramatically reduced painful crises in patients.\n\nCancer Immunotherapy: CRISPR is being used to engineer T cells (CAR-T cells) to better recognize\nand attack cancer cells. Engineered T cells can have multiple genes knocked out or inserted to\nenhance tumor-killing ability and reduce the risk of graft-versus-host disease.\n\nHIV Treatment: CRISPR has been used experimentally to excise integrated HIV proviral DNA from\ninfected cells in animal models. The challenge is achieving complete elimination across all\ninfected cells in the body."
+  },
+  {
+    "chunk_id": 34,
+    "source": "crispr_gene_editing.txt",
+    "page": 1,
+    "text": "nimal models. The challenge is achieving complete elimination across all\ninfected cells in the body.\n\nMuscular Dystrophy: Duchenne muscular dystrophy (DMD) is caused by mutations in the dystrophin\ngene. CRISPR has been used to restore a partial dystrophin protein in mouse and dog models by\nskipping exons containing the mutation.\n\nHuntington's Disease: Research is underway to use CRISPR to silence the mutant huntingtin gene\nthat causes this fatal neurodegenerative disorder.\n\n5. AGRICULTURAL APPLICATIONS\n-----------------------------\nCRISPR is transforming agriculture through precise crop improvement:"
+  },
+  {
+    "chunk_id": 35,
+    "source": "crispr_gene_editing.txt",
+    "page": 1,
+    "text": "S\n-----------------------------\nCRISPR is transforming agriculture through precise crop improvement:\n\nDisease Resistance: Scientists have used CRISPR to create wheat resistant to powdery mildew by\nediting genes (MLO) that make plants susceptible to the fungus. Similarly, cassava and bananas\nhave been edited for resistance to viral diseases.\n\nDrought and Heat Tolerance: Crops can be edited to activate stress-response genes, improving\nsurvival in difficult environmental conditions \u2014 critical for climate change adaptation."
+  },
+  {
+    "chunk_id": 36,
+    "source": "crispr_gene_editing.txt",
+    "page": 1,
+    "text": ", improving\nsurvival in difficult environmental conditions \u2014 critical for climate change adaptation.\n\nImproved Nutritional Profiles: CRISPR has been used to modify the fat composition of soybeans\n(producing high-oleic oil), create low-gluten wheat, and develop tomatoes with higher lycopene\ncontent. The Sicilian Rouge High GABA tomato was approved in Japan in 2021 \u2014 the first CRISPR\nfood approved for human consumption.\n\nReducing Food Waste: The non-browning Arctic apple was developed using CRISPR to reduce the\nbrowning enzyme, extending shelf life and reducing waste."
+  },
+  {
+    "chunk_id": 37,
+    "source": "crispr_gene_editing.txt",
+    "page": 1,
+    "text": "e was developed using CRISPR to reduce the\nbrowning enzyme, extending shelf life and reducing waste.\n\nHornless Cattle: Dairy cattle are typically born with horns that are physically removed, causing\npain. CRISPR has been used to introduce the hornless (polled) gene into dairy breeds, potentially\neliminating this painful procedure.\n\n6. ETHICAL CONCERNS AND GOVERNANCE\n------------------------------------\nCRISPR raises profound ethical questions:"
+  },
+  {
+    "chunk_id": 38,
+    "source": "crispr_gene_editing.txt",
+    "page": 1,
+    "text": "NCERNS AND GOVERNANCE\n------------------------------------\nCRISPR raises profound ethical questions:\n\nGermline Editing: In November 2018, Chinese scientist He Jiankui announced the birth of the\nworld's first gene-edited babies, twins whose CCR5 gene was edited to confer HIV resistance.\nThis caused international outrage from the scientific community. He was convicted of illegal\nmedical practices in China and sentenced to three years in prison. The scientific consensus is\nthat germline editing for enhancement or non-life-threatening conditions should not proceed."
+  },
+  {
+    "chunk_id": 39,
+    "source": "crispr_gene_editing.txt",
+    "page": 1,
+    "text": "nsus is\nthat germline editing for enhancement or non-life-threatening conditions should not proceed.\n\nOff-Target Effects: CRISPR can make unintended edits elsewhere in the genome. While newer\nhigh-fidelity variants have reduced this risk, it remains a safety concern for therapeutic use.\n\nEquitable Access: If CRISPR therapies cost hundreds of thousands of dollars (Casgevy is priced\nat $2.2 million per patient), they will only be accessible to wealthy patients in wealthy nations,\nraising serious equity concerns."
+  },
+  {
+    "chunk_id": 40,
+    "source": "crispr_gene_editing.txt",
+    "page": 1,
+    "text": "hey will only be accessible to wealthy patients in wealthy nations,\nraising serious equity concerns.\n\nEcological Risks: Gene drives \u2014 self-propagating genetic modifications that spread through wild\npopulations \u2014 could be used for beneficial purposes (e.g., eliminating malaria-carrying mosquitoes)\nbut carry risks of unintended ecological disruption.\n\nEnhancement vs. Treatment: There is ongoing debate about where the line is between treating\ndisease (acceptable) and enhancing normal traits (ethically contested)."
+  },
+  {
+    "chunk_id": 41,
+    "source": "crispr_gene_editing.txt",
+    "page": 1,
+    "text": "the line is between treating\ndisease (acceptable) and enhancing normal traits (ethically contested).\n\n7. FUTURE DIRECTIONS\n--------------------\nThe field continues to advance rapidly:\n- In vivo delivery: Lipid nanoparticles (LNPs) and viral vectors (AAV) are being improved for\n  direct delivery of CRISPR components to tissues within the body\n- Epigenome editing: Using catalytically dead Cas9 (dCas9) fused to epigenetic modifiers to\n  turn genes on or off without changing the DNA sequence\n- Large-scale genomic rearrangements: New tools can move large segments of chromosomes\n- CRISPR diagnostics: SHERLOCK and DETECTR platforms provide sensitive, specific, point-of-care\n  diagnostic tests (used for COVID-19 detection)"
+  },
+  {
+    "chunk_id": 42,
+    "source": "crispr_gene_editing.txt",
+    "page": 1,
+    "text": "latforms provide sensitive, specific, point-of-care\n  diagnostic tests (used for COVID-19 detection)\n\n8. SUMMARY\n----------\nCRISPR-Cas9 has democratized gene editing, making it faster, cheaper, and more accessible than\nany previous approach. From the first approved CRISPR therapy in 2023 to ongoing trials for\ndozens of genetic diseases, it is transforming medicine. At the same time, it raises profound\nethical questions about the boundaries of genetic intervention that humanity must thoughtfully\naddress."
+  },
+  {
+    "chunk_id": 43,
+    "source": "quantum_mechanics_fundamentals.txt",
+    "page": 1,
+    "text": "QUANTUM MECHANICS: FUNDAMENTALS AND PRINCIPLES\n================================================\n\n1. INTRODUCTION\n---------------\nQuantum mechanics is a fundamental theory in physics that describes the physical properties\nof nature at the scale of atoms and subatomic particles. It is the foundation of all quantum\nphysics including quantum chemistry, quantum field theory, quantum technology, and quantum\ninformation science."
+  },
+  {
+    "chunk_id": 44,
+    "source": "quantum_mechanics_fundamentals.txt",
+    "page": 1,
+    "text": "luding quantum chemistry, quantum field theory, quantum technology, and quantum\ninformation science.\n\nClassical physics, the physics existing before quantum mechanics, describes many aspects of\nnature at an ordinary macroscopic scale, but is not sufficient for describing it at small\n(atomic and subatomic) scales. Most theories in classical physics can be derived from quantum\nmechanics as an approximation valid at large (macroscopic) scales."
+  },
+  {
+    "chunk_id": 45,
+    "source": "quantum_mechanics_fundamentals.txt",
+    "page": 1,
+    "text": "ysics can be derived from quantum\nmechanics as an approximation valid at large (macroscopic) scales.\n\nQuantum mechanics differs from classical physics in that energy, momentum, angular momentum,\nand other quantities of a bound system are restricted to discrete values (quantization),\nobjects have characteristics of both particles and waves (wave-particle duality), and there\nare limits to how accurately the value of a physical quantity can be predicted prior to its\nmeasurement (the uncertainty principle)."
+  },
+  {
+    "chunk_id": 46,
+    "source": "quantum_mechanics_fundamentals.txt",
+    "page": 1,
+    "text": "value of a physical quantity can be predicted prior to its\nmeasurement (the uncertainty principle).\n\n2. THE WAVE-PARTICLE DUALITY\n-----------------------------\nWave-particle duality is the concept in quantum mechanics that every particle or quantum entity\nmay be described as either a particle or a wave. It expresses the inability of classical\nconcepts to fully describe the behaviour of quantum-scale objects."
+  },
+  {
+    "chunk_id": 47,
+    "source": "quantum_mechanics_fundamentals.txt",
+    "page": 1,
+    "text": "resses the inability of classical\nconcepts to fully describe the behaviour of quantum-scale objects.\n\nThe double-slit experiment is the canonical demonstration of wave-particle duality. When light\nor electrons are fired through two parallel slits, an interference pattern emerges \u2014 behavior\ntypical of waves. However, when detectors are placed to observe which slit each particle passes\nthrough, the interference pattern disappears and particles behave as classical objects."
+  },
+  {
+    "chunk_id": 48,
+    "source": "quantum_mechanics_fundamentals.txt",
+    "page": 1,
+    "text": "ticle passes\nthrough, the interference pattern disappears and particles behave as classical objects.\n\nThis experiment shows that the act of measurement itself affects the quantum system. The\nCopenhagen interpretation, proposed by Niels Bohr and Werner Heisenberg, states that quantum\nparticles do not have definite properties until they are measured. Before measurement, particles\nexist in a superposition of all possible states."
+  },
+  {
+    "chunk_id": 49,
+    "source": "quantum_mechanics_fundamentals.txt",
+    "page": 1,
+    "text": "il they are measured. Before measurement, particles\nexist in a superposition of all possible states.\n\nLouis de Broglie proposed in 1924 that all matter has a wave nature, and this was confirmed\nexperimentally for electrons by Clinton Davisson and Lester Germer in 1927. The de Broglie\nwavelength of a particle is given by \u03bb = h/p, where h is Planck's constant and p is the\nmomentum of the particle."
+  },
+  {
+    "chunk_id": 50,
+    "source": "quantum_mechanics_fundamentals.txt",
+    "page": 1,
+    "text": "a particle is given by \u03bb = h/p, where h is Planck's constant and p is the\nmomentum of the particle.\n\n3. THE HEISENBERG UNCERTAINTY PRINCIPLE\n----------------------------------------\nThe Heisenberg uncertainty principle is a fundamental limit in quantum mechanics that states\nit is impossible to simultaneously know, with perfect precision, both the position and momentum\nof a subatomic particle. The more precisely the position is determined, the less precisely the\nmomentum is known, and vice versa.\n\nMathematically, the uncertainty principle is expressed as:\n  \u0394x \u00b7 \u0394p \u2265 \u210f/2"
+  },
+  {
+    "chunk_id": 51,
+    "source": "quantum_mechanics_fundamentals.txt",
+    "page": 1,
+    "text": "s known, and vice versa.\n\nMathematically, the uncertainty principle is expressed as:\n  \u0394x \u00b7 \u0394p \u2265 \u210f/2\n\nwhere \u0394x is the uncertainty in position, \u0394p is the uncertainty in momentum, and \u210f = h/2\u03c0 is\nthe reduced Planck constant (approximately 1.055 \u00d7 10^-34 joule-seconds).\n\nThis is not a statement about the limitations of our measuring instruments, but a fundamental\nproperty of nature itself. The uncertainty principle arises from the wave nature of quantum\nobjects \u2014 a wave can have a well-defined position or a well-defined wavelength (momentum), but\nnot both simultaneously."
+  },
+  {
+    "chunk_id": 52,
+    "source": "quantum_mechanics_fundamentals.txt",
+    "page": 1,
+    "text": "n have a well-defined position or a well-defined wavelength (momentum), but\nnot both simultaneously.\n\nThere is also an energy-time uncertainty relation: \u0394E \u00b7 \u0394t \u2265 \u210f/2, which has important\nimplications for the lifetime of excited quantum states and for virtual particles in quantum\nfield theory.\n\n4. SCHR\u00d6DINGER'S EQUATION\n--------------------------\nThe Schr\u00f6dinger equation is the fundamental equation governing the time evolution of quantum\nmechanical systems. It was formulated by Erwin Schr\u00f6dinger in 1926. The time-dependent\nSchr\u00f6dinger equation is:\n\ni\u210f \u2202\u03a8/\u2202t = \u0124\u03a8"
+  },
+  {
+    "chunk_id": 53,
+    "source": "quantum_mechanics_fundamentals.txt",
+    "page": 1,
+    "text": "formulated by Erwin Schr\u00f6dinger in 1926. The time-dependent\nSchr\u00f6dinger equation is:\n\ni\u210f \u2202\u03a8/\u2202t = \u0124\u03a8\n\nwhere \u03a8 (psi) is the wave function of the quantum system, \u0125 is the Hamiltonian operator\n(representing total energy), i is the imaginary unit, and \u210f is the reduced Planck constant.\n\nThe wave function \u03a8 contains all the information about a quantum system. The square of its\nabsolute value, |\u03a8|\u00b2, gives the probability density for finding the particle at a given\nposition. This probabilistic interpretation was proposed by Max Born in 1926.\n\nFor a particle in a potential V(x), the time-independent Schr\u00f6dinger equation is:\n  -\u210f\u00b2/2m \u00b7 d\u00b2\u03a8/dx\u00b2 + V(x)\u03a8 = E\u03a8"
+  },
+  {
+    "chunk_id": 54,
+    "source": "quantum_mechanics_fundamentals.txt",
+    "page": 1,
+    "text": "e in a potential V(x), the time-independent Schr\u00f6dinger equation is:\n  -\u210f\u00b2/2m \u00b7 d\u00b2\u03a8/dx\u00b2 + V(x)\u03a8 = E\u03a8\n\nSolving this equation for various potentials gives rise to quantized energy levels \u2014 for\nexample, the hydrogen atom has energy levels En = -13.6/n\u00b2 eV, where n is the principal\nquantum number (1, 2, 3, ...)."
+  },
+  {
+    "chunk_id": 55,
+    "source": "quantum_mechanics_fundamentals.txt",
+    "page": 1,
+    "text": "gen atom has energy levels En = -13.6/n\u00b2 eV, where n is the principal\nquantum number (1, 2, 3, ...).\n\n5. QUANTUM SUPERPOSITION AND ENTANGLEMENT\n------------------------------------------\nSuperposition is the ability of a quantum system to be in multiple states simultaneously until\na measurement is made. Schr\u00f6dinger's cat is the famous thought experiment illustrating this:\na cat in a sealed box is simultaneously alive and dead (in a superposition of both states)\nuntil the box is opened and the cat is observed."
+  },
+  {
+    "chunk_id": 56,
+    "source": "quantum_mechanics_fundamentals.txt",
+    "page": 1,
+    "text": "alive and dead (in a superposition of both states)\nuntil the box is opened and the cat is observed.\n\nQuantum entanglement is a phenomenon where two or more particles become linked in such a way\nthat the quantum state of each particle cannot be described independently of the state of the\nothers, even when separated by large distances. Einstein famously called this \"spooky action\nat a distance\" and believed it indicated a flaw in quantum mechanics."
+  },
+  {
+    "chunk_id": 57,
+    "source": "quantum_mechanics_fundamentals.txt",
+    "page": 1,
+    "text": "sly called this \"spooky action\nat a distance\" and believed it indicated a flaw in quantum mechanics.\n\nJohn Bell formulated Bell's theorem in 1964, which provides a test to distinguish between\nquantum entanglement and local hidden variable theories. Experiments by Alain Aspect and\nothers have confirmed that quantum entanglement is real and that nature truly violates Bell's\ninequalities, ruling out local hidden variable theories.\n\nEntanglement is a key resource for quantum computing, quantum cryptography, and quantum\nteleportation. In quantum key distribution (QKD), entangled photon pairs can be used to\ncreate cryptographic keys that are theoretically impossible to intercept without detection."
+  },
+  {
+    "chunk_id": 58,
+    "source": "quantum_mechanics_fundamentals.txt",
+    "page": 1,
+    "text": "used to\ncreate cryptographic keys that are theoretically impossible to intercept without detection.\n\n6. QUANTUM NUMBERS AND THE HYDROGEN ATOM\n-----------------------------------------\nIn the quantum mechanical model of the atom, electrons are described by four quantum numbers:\n- Principal quantum number (n): determines the energy level; n = 1, 2, 3, ...\n- Angular momentum quantum number (l): determines orbital shape; l = 0 to n-1\n- Magnetic quantum number (ml): determines orbital orientation; ml = -l to +l\n- Spin quantum number (ms): describes electron spin; ms = +1/2 or -1/2"
+  },
+  {
+    "chunk_id": 59,
+    "source": "quantum_mechanics_fundamentals.txt",
+    "page": 1,
+    "text": "al orientation; ml = -l to +l\n- Spin quantum number (ms): describes electron spin; ms = +1/2 or -1/2\n\nThe Pauli exclusion principle states that no two electrons in an atom can have the same set\nof four quantum numbers. This is the reason electrons fill different shells and subshells, and\nit ultimately explains the structure of the periodic table of elements.\n\nThe hydrogen atom has exact analytical solutions for its energy levels: En = -13.6 eV/n\u00b2.\nThe ground state (n=1) has energy -13.6 eV. An electron must absorb a photon with exactly\nthe right energy to jump to a higher level, and it emits a photon of the same energy when\nfalling back \u2014 this explains atomic emission and absorption spectra."
+  },
+  {
+    "chunk_id": 60,
+    "source": "quantum_mechanics_fundamentals.txt",
+    "page": 1,
+    "text": "photon of the same energy when\nfalling back \u2014 this explains atomic emission and absorption spectra.\n\n7. APPLICATIONS OF QUANTUM MECHANICS\n--------------------------------------\nQuantum mechanics underlies virtually all modern technology:\n- Transistors and microchips: semiconductor behavior is entirely quantum mechanical\n- Lasers: operate on stimulated emission of photons (predicted by Einstein in 1917)\n- MRI scanners: use nuclear magnetic resonance, a quantum phenomenon\n- Solar cells: photovoltaic effect is quantum mechanical\n- Electron microscopes: use the wave nature of electrons for imaging at atomic scale\n- Quantum computers: exploit superposition and entanglement for computation\n- LED lighting: based on quantum transitions in semiconductor materials"
+  },
+  {
+    "chunk_id": 61,
+    "source": "quantum_mechanics_fundamentals.txt",
+    "page": 1,
+    "text": "entanglement for computation\n- LED lighting: based on quantum transitions in semiconductor materials\n\n8. INTERPRETATIONS OF QUANTUM MECHANICS\n-----------------------------------------\nDespite its extraordinary predictive success, quantum mechanics has no universally agreed\ninterpretation:\n- Copenhagen interpretation: measurement collapses the wave function; quantum states are\n  not real until observed (Bohr, Heisenberg)\n- Many-worlds interpretation: measurement causes the universe to branch; all outcomes occur\n  in different branches (Everett, 1957)\n- Pilot wave theory: particles always have definite positions guided by a pilot wave\n  (de Broglie, Bohm)\n- Relational quantum mechanics: quantum states are relative to the observer (Rovelli)"
+  },
+  {
+    "chunk_id": 62,
+    "source": "quantum_mechanics_fundamentals.txt",
+    "page": 1,
+    "text": "Broglie, Bohm)\n- Relational quantum mechanics: quantum states are relative to the observer (Rovelli)\n\nEach interpretation makes the same experimental predictions; they differ in their ontological\nclaims about what is \"really happening.\"\n\n9. SUMMARY\n----------\nQuantum mechanics is the most precisely tested theory in physics history. Its predictions\nmatch experimental measurements to extraordinary precision (e.g., the electron's magnetic\nmoment agrees with theory to 10 decimal places). It describes the microscopic world where\nclassical intuitions fail and probabilities rule, yet it underpins the macroscopic technology\nthat defines the modern world."
+  }
+]
