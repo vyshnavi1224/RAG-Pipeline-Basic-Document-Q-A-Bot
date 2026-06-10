@@ -1,0 +1,157 @@
+QUANTUM MECHANICS: FUNDAMENTALS AND PRINCIPLES
+================================================
+
+1. INTRODUCTION
+---------------
+Quantum mechanics is a fundamental theory in physics that describes the physical properties
+of nature at the scale of atoms and subatomic particles. It is the foundation of all quantum
+physics including quantum chemistry, quantum field theory, quantum technology, and quantum
+information science.
+
+Classical physics, the physics existing before quantum mechanics, describes many aspects of
+nature at an ordinary macroscopic scale, but is not sufficient for describing it at small
+(atomic and subatomic) scales. Most theories in classical physics can be derived from quantum
+mechanics as an approximation valid at large (macroscopic) scales.
+
+Quantum mechanics differs from classical physics in that energy, momentum, angular momentum,
+and other quantities of a bound system are restricted to discrete values (quantization),
+objects have characteristics of both particles and waves (wave-particle duality), and there
+are limits to how accurately the value of a physical quantity can be predicted prior to its
+measurement (the uncertainty principle).
+
+2. THE WAVE-PARTICLE DUALITY
+-----------------------------
+Wave-particle duality is the concept in quantum mechanics that every particle or quantum entity
+may be described as either a particle or a wave. It expresses the inability of classical
+concepts to fully describe the behaviour of quantum-scale objects.
+
+The double-slit experiment is the canonical demonstration of wave-particle duality. When light
+or electrons are fired through two parallel slits, an interference pattern emerges — behavior
+typical of waves. However, when detectors are placed to observe which slit each particle passes
+through, the interference pattern disappears and particles behave as classical objects.
+
+This experiment shows that the act of measurement itself affects the quantum system. The
+Copenhagen interpretation, proposed by Niels Bohr and Werner Heisenberg, states that quantum
+particles do not have definite properties until they are measured. Before measurement, particles
+exist in a superposition of all possible states.
+
+Louis de Broglie proposed in 1924 that all matter has a wave nature, and this was confirmed
+experimentally for electrons by Clinton Davisson and Lester Germer in 1927. The de Broglie
+wavelength of a particle is given by λ = h/p, where h is Planck's constant and p is the
+momentum of the particle.
+
+3. THE HEISENBERG UNCERTAINTY PRINCIPLE
+----------------------------------------
+The Heisenberg uncertainty principle is a fundamental limit in quantum mechanics that states
+it is impossible to simultaneously know, with perfect precision, both the position and momentum
+of a subatomic particle. The more precisely the position is determined, the less precisely the
+momentum is known, and vice versa.
+
+Mathematically, the uncertainty principle is expressed as:
+  Δx · Δp ≥ ℏ/2
+
+where Δx is the uncertainty in position, Δp is the uncertainty in momentum, and ℏ = h/2π is
+the reduced Planck constant (approximately 1.055 × 10^-34 joule-seconds).
+
+This is not a statement about the limitations of our measuring instruments, but a fundamental
+property of nature itself. The uncertainty principle arises from the wave nature of quantum
+objects — a wave can have a well-defined position or a well-defined wavelength (momentum), but
+not both simultaneously.
+
+There is also an energy-time uncertainty relation: ΔE · Δt ≥ ℏ/2, which has important
+implications for the lifetime of excited quantum states and for virtual particles in quantum
+field theory.
+
+4. SCHRÖDINGER'S EQUATION
+--------------------------
+The Schrödinger equation is the fundamental equation governing the time evolution of quantum
+mechanical systems. It was formulated by Erwin Schrödinger in 1926. The time-dependent
+Schrödinger equation is:
+
+  iℏ ∂Ψ/∂t = ĤΨ
+
+where Ψ (psi) is the wave function of the quantum system, ĥ is the Hamiltonian operator
+(representing total energy), i is the imaginary unit, and ℏ is the reduced Planck constant.
+
+The wave function Ψ contains all the information about a quantum system. The square of its
+absolute value, |Ψ|², gives the probability density for finding the particle at a given
+position. This probabilistic interpretation was proposed by Max Born in 1926.
+
+For a particle in a potential V(x), the time-independent Schrödinger equation is:
+  -ℏ²/2m · d²Ψ/dx² + V(x)Ψ = EΨ
+
+Solving this equation for various potentials gives rise to quantized energy levels — for
+example, the hydrogen atom has energy levels En = -13.6/n² eV, where n is the principal
+quantum number (1, 2, 3, ...).
+
+5. QUANTUM SUPERPOSITION AND ENTANGLEMENT
+------------------------------------------
+Superposition is the ability of a quantum system to be in multiple states simultaneously until
+a measurement is made. Schrödinger's cat is the famous thought experiment illustrating this:
+a cat in a sealed box is simultaneously alive and dead (in a superposition of both states)
+until the box is opened and the cat is observed.
+
+Quantum entanglement is a phenomenon where two or more particles become linked in such a way
+that the quantum state of each particle cannot be described independently of the state of the
+others, even when separated by large distances. Einstein famously called this "spooky action
+at a distance" and believed it indicated a flaw in quantum mechanics.
+
+John Bell formulated Bell's theorem in 1964, which provides a test to distinguish between
+quantum entanglement and local hidden variable theories. Experiments by Alain Aspect and
+others have confirmed that quantum entanglement is real and that nature truly violates Bell's
+inequalities, ruling out local hidden variable theories.
+
+Entanglement is a key resource for quantum computing, quantum cryptography, and quantum
+teleportation. In quantum key distribution (QKD), entangled photon pairs can be used to
+create cryptographic keys that are theoretically impossible to intercept without detection.
+
+6. QUANTUM NUMBERS AND THE HYDROGEN ATOM
+-----------------------------------------
+In the quantum mechanical model of the atom, electrons are described by four quantum numbers:
+- Principal quantum number (n): determines the energy level; n = 1, 2, 3, ...
+- Angular momentum quantum number (l): determines orbital shape; l = 0 to n-1
+- Magnetic quantum number (ml): determines orbital orientation; ml = -l to +l
+- Spin quantum number (ms): describes electron spin; ms = +1/2 or -1/2
+
+The Pauli exclusion principle states that no two electrons in an atom can have the same set
+of four quantum numbers. This is the reason electrons fill different shells and subshells, and
+it ultimately explains the structure of the periodic table of elements.
+
+The hydrogen atom has exact analytical solutions for its energy levels: En = -13.6 eV/n².
+The ground state (n=1) has energy -13.6 eV. An electron must absorb a photon with exactly
+the right energy to jump to a higher level, and it emits a photon of the same energy when
+falling back — this explains atomic emission and absorption spectra.
+
+7. APPLICATIONS OF QUANTUM MECHANICS
+--------------------------------------
+Quantum mechanics underlies virtually all modern technology:
+- Transistors and microchips: semiconductor behavior is entirely quantum mechanical
+- Lasers: operate on stimulated emission of photons (predicted by Einstein in 1917)
+- MRI scanners: use nuclear magnetic resonance, a quantum phenomenon
+- Solar cells: photovoltaic effect is quantum mechanical
+- Electron microscopes: use the wave nature of electrons for imaging at atomic scale
+- Quantum computers: exploit superposition and entanglement for computation
+- LED lighting: based on quantum transitions in semiconductor materials
+
+8. INTERPRETATIONS OF QUANTUM MECHANICS
+-----------------------------------------
+Despite its extraordinary predictive success, quantum mechanics has no universally agreed
+interpretation:
+- Copenhagen interpretation: measurement collapses the wave function; quantum states are
+  not real until observed (Bohr, Heisenberg)
+- Many-worlds interpretation: measurement causes the universe to branch; all outcomes occur
+  in different branches (Everett, 1957)
+- Pilot wave theory: particles always have definite positions guided by a pilot wave
+  (de Broglie, Bohm)
+- Relational quantum mechanics: quantum states are relative to the observer (Rovelli)
+
+Each interpretation makes the same experimental predictions; they differ in their ontological
+claims about what is "really happening."
+
+9. SUMMARY
+----------
+Quantum mechanics is the most precisely tested theory in physics history. Its predictions
+match experimental measurements to extraordinary precision (e.g., the electron's magnetic
+moment agrees with theory to 10 decimal places). It describes the microscopic world where
+classical intuitions fail and probabilities rule, yet it underpins the macroscopic technology
+that defines the modern world.

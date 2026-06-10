@@ -1,0 +1,147 @@
+BLACK HOLES AND GENERAL RELATIVITY
+===================================
+
+1. INTRODUCTION
+---------------
+A black hole is a region of spacetime where gravity is so strong that nothing — not even light
+or other electromagnetic waves — has enough energy to escape its event horizon. The theory of
+general relativity predicts that a sufficiently compact mass can deform spacetime to form a black
+hole. The boundary of no escape is called the event horizon. A black hole has a great effect on
+the fate and circumstances of an object crossing it, but has no locally detectable features
+according to general relativity.
+
+The term "black hole" was coined by American astronomer John Wheeler in 1967, although the
+concept was predicted by Karl Schwarzschild's solution to Einstein's field equations in 1916 —
+just one year after Einstein published general relativity.
+
+2. GENERAL RELATIVITY AND SPACETIME CURVATURE
+----------------------------------------------
+Albert Einstein published his general theory of relativity in 1915. It revolutionized our
+understanding of gravity, describing it not as a force (as Newton had it) but as a curvature
+of spacetime caused by mass and energy.
+
+Einstein's field equations relate the geometry of spacetime (expressed through the Einstein
+tensor Gμν) to the energy and momentum of matter (expressed through the stress-energy tensor Tμν):
+
+  Gμν + Λgμν = (8πG/c⁴) Tμν
+
+where Λ is the cosmological constant, G is Newton's gravitational constant, and c is the speed
+of light. These 10 coupled, nonlinear partial differential equations are extraordinarily complex
+and have only been solved analytically for special cases.
+
+The Schwarzschild solution describes the spacetime geometry outside a spherical, non-rotating,
+uncharged mass. It predicts the existence of a Schwarzschild radius (also called the gravitational
+radius), rs = 2GM/c², at which the escape velocity equals the speed of light. This defines the
+event horizon of the simplest type of black hole.
+
+For the Sun, the Schwarzschild radius is approximately 3 km; for Earth, it is about 9 mm.
+Normal stars and planets are far larger than their Schwarzschild radii, so they are not black
+holes — their mass is not compressed enough.
+
+3. TYPES OF BLACK HOLES
+-----------------------
+Black holes are classified by their mass:
+
+Stellar-mass black holes (3–100 solar masses): Form when massive stars (greater than about
+20 solar masses) exhaust their nuclear fuel and undergo supernova explosions. The iron core
+collapses under gravity, and if the remaining mass exceeds the Tolman-Oppenheimer-Volkoff limit
+(~3 solar masses), it cannot be supported by neutron degeneracy pressure and collapses further
+into a black hole. First observational evidence came from Cygnus X-1, detected in 1971.
+
+Intermediate-mass black holes (100–100,000 solar masses): Difficult to confirm observationally
+but likely exist as seeds for supermassive black holes or in the centers of globular clusters.
+
+Supermassive black holes (millions to billions of solar masses): Found at the centers of most
+large galaxies. The Milky Way's central black hole, Sagittarius A*, has a mass of approximately
+4 million solar masses. M87* (in galaxy Messier 87) has a mass of 6.5 billion solar masses and
+was the subject of the first-ever direct image of a black hole, captured by the Event Horizon
+Telescope (EHT) collaboration in April 2019.
+
+Primordial black holes: Hypothetical black holes that may have formed in the early universe from
+density fluctuations, before star formation. They could have any mass and are a candidate for
+dark matter.
+
+4. THE EVENT HORIZON AND SINGULARITY
+--------------------------------------
+The event horizon is the boundary of a black hole — a surface in spacetime beyond which events
+cannot affect an outside observer. Nothing that crosses the event horizon can escape, including
+light. From the perspective of a distant observer, a falling object appears to slow down and
+become redder as it approaches the event horizon (gravitational time dilation and redshift), but
+it never quite appears to cross it due to the infinite time dilation at the horizon.
+
+From the perspective of the infalling object, there is nothing locally special about crossing
+the event horizon. The object crosses it in finite proper time and continues falling toward the
+singularity at the center.
+
+The singularity is a point (or ring, in a rotating black hole) where the density and curvature
+of spacetime become infinite according to general relativity. Most physicists believe that the
+singularity signals a breakdown of general relativity — a quantum theory of gravity is needed
+to describe physics at the singularity.
+
+5. HAWKING RADIATION
+--------------------
+In 1974, Stephen Hawking predicted that black holes are not completely black — they emit thermal
+radiation due to quantum effects near the event horizon. This is known as Hawking radiation.
+
+The mechanism involves virtual particle-antiparticle pairs that constantly form and annihilate
+near the event horizon. Occasionally, one particle falls inside the horizon while the other
+escapes. To an outside observer, the black hole appears to emit a particle. The energy for this
+comes from the black hole's mass, so the black hole slowly evaporates.
+
+The temperature of Hawking radiation is:
+  T = ℏc³/(8πGMkB)
+
+where kB is Boltzmann's constant. For stellar-mass black holes, this temperature is extraordinarily
+small (roughly 60 nanokelvin for a solar-mass black hole), far below the temperature of the cosmic
+microwave background, making Hawking radiation undetectable with current technology. However, for
+very small (micro) black holes, the temperature would be high enough to make them rapidly evaporate.
+
+6. GRAVITATIONAL WAVES FROM BLACK HOLES
+----------------------------------------
+Gravitational waves are ripples in spacetime caused by accelerating masses. Einstein predicted
+them in 1916, but they were not directly detected until September 14, 2015, when the Laser
+Interferometer Gravitational-Wave Observatory (LIGO) detected waves from the merger of two
+stellar-mass black holes approximately 1.3 billion light-years away. The two black holes had
+masses of approximately 29 and 36 solar masses and merged into a 62-solar-mass black hole,
+radiating 3 solar masses worth of energy as gravitational waves in a fraction of a second.
+
+This discovery, which led to the 2017 Nobel Prize in Physics for Rainer Weiss, Kip Thorne, and
+Barry Barish, opened the era of gravitational wave astronomy. LIGO, Virgo, and KAGRA have since
+detected dozens of black hole mergers, neutron star mergers, and mixed events.
+
+7. THE INFORMATION PARADOX
+---------------------------
+Hawking radiation presents a profound theoretical problem known as the black hole information
+paradox. If a black hole forms from matter in a pure quantum state, then Hawking radiation is
+completely thermal (mixed quantum state) and carries no information about the original matter.
+After the black hole evaporates completely, all information about the original state is gone.
+
+This violates unitarity — a fundamental principle of quantum mechanics that says quantum
+information is conserved. The paradox has been debated for decades. Proposed resolutions include:
+- Information is encoded in subtle correlations in the Hawking radiation (Hawking's eventual view)
+- Information escapes in Planck-scale remnants after evaporation
+- The firewall paradox (Almheiri et al., 2012): an infalling observer would encounter a firewall
+  of high-energy radiation at the event horizon
+- ER = EPR conjecture (Maldacena and Susskind, 2013): the interior and exterior of the black hole
+  are connected by wormholes (Einstein-Rosen bridges) linked to entanglement
+
+8. THE FIRST IMAGE OF A BLACK HOLE
+------------------------------------
+On April 10, 2019, the Event Horizon Telescope (EHT) collaboration released the first direct
+image of a black hole. The target was M87*, the supermassive black hole at the center of
+galaxy Messier 87, located 55 million light-years from Earth. The image shows a bright ring
+of emission (hot accreting gas) surrounding a dark central region (the shadow of the event
+horizon) with a diameter of approximately 42 microarcseconds.
+
+In 2022, the EHT released the first image of Sagittarius A*, the black hole at the center of
+the Milky Way, despite the greater challenge posed by its smaller angular size and more rapidly
+varying structure.
+
+9. SUMMARY
+----------
+Black holes are among the most extreme objects in the universe, where general relativity, quantum
+mechanics, and thermodynamics all intersect in poorly understood ways. From gravitational wave
+astronomy to direct imaging, the 21st century has transformed black holes from theoretical
+curiosities into objects we can observe and study in detail. Key open questions — the information
+paradox, the nature of singularities, and what lies inside the event horizon — remain at the
+frontier of theoretical physics.
